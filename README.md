@@ -13,7 +13,7 @@
   *Action:* Print `CALL THE CANDIDATE WITH A COUNTER PROPOSAL`
 
 - **Else**  
-  *Action:* Print `Waiting for results from more candidates`
+  *Action:* Print `WAITING FOR RESULTS FROM MORE CANDIDATES`
 
 ## Skills Used
 - OOP (Object-Oriented Programming)
