@@ -8,6 +8,7 @@ public class Main {
         candidate.salaryCandidate(2000);
         candidate.salaryCandidate(1500);
         candidate.salaryCandidate(1000);
+
     }
 
 }
