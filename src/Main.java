@@ -6,6 +6,8 @@ public class Main {
     public static void main(String[] args) {
         Candidate candidate = new Candidate();
         candidate.salaryCandidate(2000);
+        candidate.salaryCandidate(1500);
+        candidate.salaryCandidate(1000);
     }
 
 }
