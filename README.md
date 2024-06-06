@@ -1,4 +1,4 @@
-# Project Version: Alfa 01
+# Small Validator Process Of Candidates
 
 ## Cases
 
@@ -37,6 +37,7 @@
 ## Skills Used
 
 - **OOP (Object-Oriented Programming)**
+- **try-catch**
 
 ## Environment
 
